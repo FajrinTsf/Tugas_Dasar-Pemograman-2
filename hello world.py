@@ -1,0 +1,5 @@
+print("hello world")
+a = int(input("masukan angka a: "))
+b = int(input("masukan angka b: "))
+c = str(a * b)
+print("angka " + str(a) + " x " + str(b) + " = " + c)
